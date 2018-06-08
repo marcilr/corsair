@@ -1,0 +1,22 @@
+links.txt
+Created Fri Jun  8 08:31:28 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Corsair related links
+
+
+Links
+=====
+Corsair
+https://www.corsair.com/us/en/
+
+Corsair's MP300 Entry-Level Consumer NVMe SSD Starts At Just $49
+by Joe Shields on June 7, 2018 1:00 PM EST
+"Early on in Computex, Corsair unveiled the new
+Corsair Force MP300 NVMe 1.3 TB M.2 SSD. Corsair announced the
+drive during our flight over, so we learned about it at the
+company's booth where the drive was prominently on display.
+The Corsair website shows the price ranging from just $49 (120GB)
+to $320 (960GB)."
+https://www.anandtech.com/show/12927/corsairs-mp300-entrylevel-consumer-nvme-ssd-starts-at-just-49
